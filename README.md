@@ -27,5 +27,5 @@ Modules for VCV Rack by Myst Mach: https://soundcloud.com/myst_mach
     * Square: For producing a square wave, adjusting the pulse knob changes the pulsewidth of the wave
 
   
-** Feedback & suggestions are much appreciated, this is an on/off hobby project of mine to learn c++ so things may be a bit rough around the edges, thanx <3 **
-** - mm **
+**Feedback & suggestions are much appreciated, this is an on/off hobby project of mine to learn c++ so things may be a bit rough around the edges, thanx <3**
+**- mm**
