@@ -10,7 +10,7 @@ Modules for VCV Rack
     * Fine: For adjusting the pitch in small amounts
     * PWM: For pulsewidth/morph modulation via external lfo, knob adjusts the amount of modulation similar to the Mod section
     * 1v/oct: For 1 volt per octave signals i.e. keyboard & sequencer signals
-    * Pulse: Pulsewidth: For setting a fixed pulsewidth/morph position, with pwm added this position becomes the middlepoint<br/>
+    * Pulse: Pulsewidth: For setting a fixed pulsewidth/morph position, with pwm added this position becomes the middlepoint <br />
     & the modulation added will go from side to side of it by the amount set by the pwm knob.
     * Sine: For producing a sine wave, adjusting the pulse knob morphs the wave from a sine to a triangle wave
     * Triangle: For producing a triangle wave, adjusting the pulse knob morphs the wave from a triangle to a saw wave
