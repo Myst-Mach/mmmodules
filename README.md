@@ -1,5 +1,5 @@
 # mmmodules
-Modules for VCV Rack by Myst Mach
+Modules for VCV Rack by Myst Mach: https://soundcloud.com/myst_mach
 
 ## 3mountains:
   A simple monophonic 3xosc module with morphing waveshapes
@@ -25,4 +25,7 @@ Modules for VCV Rack by Myst Mach
     * Saw: For producing a saw wave, adjusting the pulse knob morphs the wave from a saw to a square wave
     
     * Square: For producing a square wave, adjusting the pulse knob changes the pulsewidth of the wave
+
   
+**Feedback & suggestions are much appreciated, this is an on/off hobby project of mine to learn c++ so things may be a bit rough around the edges, thanx <3
+**- mm
