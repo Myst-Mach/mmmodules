@@ -1,5 +1,5 @@
 # mmmodules
-Modules for VCV Rack
+Modules for VCV Rack by Myst Mach
 
 ## 3mountains:
   A simple monophonic 3xosc module with morphing waveshapes
