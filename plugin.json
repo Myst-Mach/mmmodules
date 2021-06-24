@@ -1,0 +1,29 @@
+{
+  "slug": "mmmodules",
+  "name": "mmmodules",
+  "version": "1.0.0",
+  "license": "proprietary",
+  "brand": "mmmodules",
+  "author": "Myst Mach",
+  "authorEmail": "",
+  "authorUrl": "https://mystmach.bandcamp.com/",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "modules": [
+    {
+      "slug": "3mountains",
+      "name": "3mountains",
+      "description": "Triple oscillator (mixer section coming soon)",
+      "tags": [
+        "oscillator",
+        "triple",
+        "3",
+        "mountains",
+        "mimixer",
+        "mmmodules"
+      ]
+    }
+  ]
+}
