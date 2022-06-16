@@ -129,6 +129,7 @@ struct tripleOSC {
 
 		//printf("sine pulsewidth %f\n", sine_pulsewidth);
 		sine_pulsewidth += pwm_offset;
+		printf("sine pulsewidth with CV %f\n", pwm_cv_input_value);
 		//sine = sine_tri + ((sine - sine_tri) * (sine_pulsewidth));//(pwm_amount - 0.5f) / 0.49));
 		sine[i] = sine[i] + ((sine_tri[i] - sine[i]) * (sine_pulsewidth));//(pwm_amount - 0.5f) / 0.49));
 
